@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "751390240162",
+    "project_id": "chat-app-f9b63",
+    "storage_bucket": "chat-app-f9b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751390240162:android:98a3024776dbd35507d6fb",
+        "android_client_info": {
+          "package_name": "com.example.elearning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751390240162-55lg1d65663sbmbofb7eqtsmh67kj3qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0svhPkQONqEtSTGe9_OFz-xAftgpJbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751390240162-55lg1d65663sbmbofb7eqtsmh67kj3qq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751390240162-00ecl4cmb3tq6hl0qttfsjsrvkkg7go4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elearningApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
