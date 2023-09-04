@@ -2,8 +2,11 @@
 
 A new Flutter project.
 
-![Screenshot_1693859400](https://github.com/kinwaned/chat_app/assets/75176487/2b3bb1cf-5f38-4d72-a0c6-21fdb74604c2)
 ![Screenshot_1693859307](https://github.com/kinwaned/chat_app/assets/75176487/64bfb7e5-3ba1-4547-be09-0840dd70c6bc)
+![Screenshot_1693859726](https://github.com/kinwaned/chat_app/assets/75176487/bc34c60d-2458-4e8f-8910-b635d5c600a5)
+![Screenshot_1693859400](https://github.com/kinwaned/chat_app/assets/75176487/2b3bb1cf-5f38-4d72-a0c6-21fdb74604c2)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
